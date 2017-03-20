@@ -1,1 +1,0 @@
-# ppxf_MaNGA
